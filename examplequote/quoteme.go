@@ -1,4 +1,4 @@
-package exquote
+package examplequote
 
 import (
 	"fmt"
