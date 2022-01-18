@@ -1,4 +1,4 @@
-module github.com/EirikSNedland/rivercrossing/examplequote
+module github.com/EirikSNedland/rivercrossing/examplequotes
 
 go 1.17
 
