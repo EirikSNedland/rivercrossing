@@ -1,11 +1,11 @@
-package examplequote
+package examplequotes
 
 import (
 	"fmt"
 	"rsc.io/quote"
 )
 
-func PrintExQuote() {
+func PrintExQuotes() {
 	fmt.Println(quote.Hello())
 	fmt.Println(quote.Go())
 	fmt.Println(quote.Opt())
